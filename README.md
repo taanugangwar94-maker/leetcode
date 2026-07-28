@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
