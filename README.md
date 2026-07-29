@@ -8,4 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
