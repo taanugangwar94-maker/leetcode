@@ -28,4 +28,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
