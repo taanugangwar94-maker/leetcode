@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
