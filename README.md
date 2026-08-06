@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
