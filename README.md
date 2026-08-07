@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
+| [0205-isomorphic-strings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
