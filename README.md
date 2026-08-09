@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
