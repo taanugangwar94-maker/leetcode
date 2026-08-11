@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## String
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0917-reverse-only-letters/) | Easy |
@@ -85,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 ## Matrix
