@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
