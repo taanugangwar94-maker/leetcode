@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
