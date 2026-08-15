@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Hash Table
@@ -55,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -107,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -145,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
