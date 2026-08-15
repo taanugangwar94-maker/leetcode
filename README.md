@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
