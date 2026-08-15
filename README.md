@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
