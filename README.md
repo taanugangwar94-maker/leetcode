@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
