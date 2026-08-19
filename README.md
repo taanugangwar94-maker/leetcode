@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0520-detect-capital](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0520-detect-capital/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
