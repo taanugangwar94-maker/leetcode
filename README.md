@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
