@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1037-valid-boomerang/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
+| [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
