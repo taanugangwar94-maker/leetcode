@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
+| [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -327,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
