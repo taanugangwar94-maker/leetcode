@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
