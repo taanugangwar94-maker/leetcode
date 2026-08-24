@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1037-valid-boomerang/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,19 +230,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
