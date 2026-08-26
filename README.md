@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Two Pointers
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
