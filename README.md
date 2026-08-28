@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1929-concatenation-of-array/) | Easy |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
