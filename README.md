@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1927-sum-game/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+| [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -365,4 +368,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0204-count-primes/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
