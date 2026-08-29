@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0728-self-dividing-numbers/) | Easy |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0989-add-to-array-form-of-integer/) | Easy |
