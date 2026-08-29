@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
