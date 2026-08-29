@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1037-valid-boomerang/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
