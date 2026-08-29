@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
+| [0507-perfect-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0507-perfect-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0728-self-dividing-numbers/) | Easy |
