@@ -389,4 +389,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
