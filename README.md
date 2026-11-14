@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1872-stone-game-viii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
