@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0204-count-primes/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
