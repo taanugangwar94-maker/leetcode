@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
