@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0647-palindromic-substrings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0647-palindromic-substrings/) | Medium |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/taanugangwar94-maker/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
