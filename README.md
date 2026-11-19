@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0345-reverse-vowels-of-a-string/) | Easy |
