@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/taanugangwar94-maker/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
@@ -421,4 +422,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/taanugangwar94-maker/leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
