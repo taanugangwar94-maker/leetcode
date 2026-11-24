@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0179-largest-number/) | Medium |
 | [0204-count-primes](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0204-count-primes/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/taanugangwar94-maker/leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
