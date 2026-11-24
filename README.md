@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1037-valid-boomerang](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1037-valid-boomerang/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1512-number-of-good-pairs/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/taanugangwar94-maker/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Matrix
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/taanugangwar94-maker/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
