@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/taanugangwar94-maker/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2427-number-of-common-factors](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
