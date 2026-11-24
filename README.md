@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3411-maximum-subarray-with-equal-products](https://github.com/taanugangwar94-maker/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/taanugangwar94-maker/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/taanugangwar94-maker/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
