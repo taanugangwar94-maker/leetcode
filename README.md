@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0507-perfect-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0507-perfect-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/taanugangwar94-maker/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0539-minimum-time-difference](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0539-minimum-time-difference/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
