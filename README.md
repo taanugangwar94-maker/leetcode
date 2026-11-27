@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/taanugangwar94-maker/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0989-add-to-array-form-of-integer/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/taanugangwar94-maker/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/taanugangwar94-maker/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/taanugangwar94-maker/leetcode/tree/main/C++/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
